@@ -1,3 +1,10 @@
+/*
+    File: rational.cpp
+    Date of Creation: Thursday, November 1, 2018
+    Description: This file holds the workings of a class 'Rational' that allows the creation of rational numbers,
+        addition, subtraction, multiplication, and division of rational numbers, and the printing of the numerator
+        and denominator from the rational number as well as the rational number in the form a/b.
+*/
 #include<iostream>
 #include<cassert>
 #include "rational.h"

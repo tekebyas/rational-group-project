@@ -1,3 +1,9 @@
+/*
+    File: main.cpp
+    Date of Creation: Thursday, November 1, 2018
+    Description: This program will perform four operations (addition, subtraction, multiplication and division)
+        on rational numbers.
+*/
 #include<iostream>
 #include "rational.h"
 
