@@ -1,4 +1,5 @@
 /*
+    Authors: Teke Byas, Jacob McGuire, Lucas Sowers, and Marianna Delrio
     File: main.cpp
     Date of Creation: Thursday, November 1, 2018
     Description: This program will perform four operations (addition, subtraction, multiplication and division)

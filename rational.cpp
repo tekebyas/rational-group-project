@@ -1,4 +1,5 @@
 /*
+    Authors: Teke Byas, Jacob McGuire, Lucas Sowers, and Marianna Delrio
     File: rational.cpp
     Date of Creation: Thursday, November 1, 2018
     Description: This file holds the workings of a class 'Rational' that allows the creation of rational numbers,
